@@ -1,6 +1,6 @@
 # Printer Attachment
 
-A pan-tilt marker attachment to my small car project that allows it to print lines of text. A look at the coding process can be found on [my blog](https://wp.nyu.edu/yonatanrozin/printer-robot/) and a look at the fabrication process and diagrams can be found [here](http://wp.nyu.edu/yonatanrozin/toy-car-printer-attachment/). A video demonstration of an early version of this project can be found [here](https://youtu.be/IXH6IJjd2Dk).
+A pan-tilt marker attachment to my small car project that allows it to print lines of text. 
 
 ## Introduction
 
